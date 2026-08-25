@@ -4,7 +4,7 @@ All contributions, bug reports, bug fixes, documentation improvements, enhanceme
 
 ## How to Contribute
 
-1. **Fork the Repository**: Create your own copy of this repository.
-2. **Create a Branch**: Create a feature branch for your changes:
+1. **Fork the Repository**: Create your own copy of this repository on GitHub.
+2. **Clone the Fork**: Clone the repository locally:
    ```bash
-   git checkout -b feature-name
+   git clone [https://github.com/Abdurrahman680/simple-interest-calculator.git](https://github.com/Abdurrahman680/simple-interest-calculator.git)
