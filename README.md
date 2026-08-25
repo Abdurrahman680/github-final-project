@@ -1,6 +1,6 @@
 # Simple Interest Calculator
 
-A script that computes simple interest given principal, annual rate of interest, and time period in years.
+A simple calculator script that computes simple interest given principal, annual rate of interest, and time period in years.
 
 ## Description
 This project takes numerical inputs from the user to calculate the simple interest accrued and displays the final calculated amount.
@@ -24,5 +24,5 @@ Where:
 - **Simple Interest:** 100
 - **Total Accrued Amount:** 1100
 
-## Author
-- [Your Name or GitHub Handle]
+## License
+This project is licensed under the Apache 2.0 License.
