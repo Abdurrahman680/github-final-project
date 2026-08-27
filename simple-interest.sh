@@ -3,7 +3,7 @@
 # Simple Interest Calculator Script
 # Author: Muhammad Abdurrahman
 # Description: Calculates Simple Interest based on Principal, Rate of Interest, and Time Period.
-# Formula: SI = (P * R * T) / 100
+# Formula: Simple Interest = (P * R * T) / 100
 
 echo "--------------------------------------------------"
 echo "            Simple Interest Calculator            "
