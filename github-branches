@@ -1,4 +1,4 @@
 $ git branch -vv
   bug-fix-revert dcaac51 [origin/bug-fix-revert] fix: correct typo in script header
-  bug-fix-typo   dcaac51 [origin/bug-fix-typo] fix: correct typo in script header
-* main           dcaac51 [origin/main] fix: correct typo in script header
+  bug-fix-typo   911956f [origin/bug-fix-typo] fix: correct typo in README.md
+* main           911956f [origin/main] fix: correct typo in README.md
