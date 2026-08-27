@@ -1,9 +1,11 @@
 $ git checkout main
 Already on 'main'
-Your branch is ahead of 'origin/main' by 1 commit.
+M	merge_branches
+Your branch is ahead of 'origin/main' by 3 commits.
   (use "git push" to publish your local commits)
 $ git merge bug-fix-typo
-Updating 7e46c17..dcaac51
-Fast-forward
- simple-interest.sh | 2 +-
- 1 file changed, 1 insertion(+), 1 deletion(-)
+error: Your local changes to the following files would be overwritten by merge:
+	merge_branches
+Please commit your changes or stash them before you merge.
+Aborting
+Updating bda5d9c..44a456c
